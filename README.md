@@ -52,7 +52,8 @@ Right click on pom.xml file and choose Run as -> Maven Test or go to command pro
 ## Reporting
 After the successful execution, the report will be generated in Interative and more readable format.
 In Cucumber we have default reporting pluings, here i implemented the Report type as "Pretty" along with HTML format.
-##### Cucumber JUnit Report
-![Extended TestNG report](https://github.com/ps442277/NewAssignment/blob/master/Sample%20Report/Junit%20Report.PNG)
+##### TestNG Report
+![TestNG Default report](https://github.com/ps442277/TestAutomation/blob/master/test-output/Suite/Test.html)
+![TestNG Extend report](https://github.com/ps442277/TestAutomation/blob/master/src/test/java/Utility/ExtentReportResults.html)
 ## Author
 Praveen Selvaraj - [About me](https://github.com/ps442277)
